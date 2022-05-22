@@ -7,3 +7,4 @@ first time playing around with Unity
 # done
 * add Player and movement controls
 * add jump and double jump for player
+* make camera follow player
